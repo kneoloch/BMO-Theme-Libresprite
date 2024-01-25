@@ -1,7 +1,9 @@
 # BMO
 *A theme for LibreSprite based on BMO from Adventure Time.*
+![BMO Screenshot 1](https://github.com/kneoloch/BMO-Theme-Libresprite/assets/157684642/005bc94e-2984-4cb1-bb36-58218ab66fd3)
+![BMO Screenshot 2](https://github.com/kneoloch/BMO-Theme-Libresprite/assets/157684642/9eb7bde1-391f-4adf-aa66-d305c0d44fde)
+![BMO Screenshot 3](https://github.com/kneoloch/BMO-Theme-Libresprite/assets/157684642/195148e5-03be-4b6b-863d-41db7639ec4d)
 
-https://github.com/kneoloch/BMO-Theme-Libresprite/blob/main/BMO%20Screenshot%201.png
 
 ## 1. Installation
 ### 1. Download the .zip file or clone the repository.
