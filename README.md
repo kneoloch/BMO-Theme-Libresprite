@@ -26,7 +26,7 @@ Go to *Edit/Preferences/Theme*, look for the paths at the top of the *Available 
 
 > -- /home/<your-username>/.config/libresprite/data/skins/ --
 
-> -- /tmp/.mount_LibreShxiPnk/usr/bin/data/skins/ -- (You should need be root user to modify this directory)
+> -- /tmp/.mount_LibreShxiPnk/usr/bin/data/skins/ --
 
 *or macOS:*
 
